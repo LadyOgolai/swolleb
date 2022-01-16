@@ -60,7 +60,7 @@
           a(t)
         }
         $('body').append(`<div class="yt-player" id="${i}"></div>`)
-        e.Log(`if you see a message saying "Failed to execute 'postMessage' on 'DOMWindow'" - it's okay, ignore it`)
+        console.log(`swolleb | if you see a message saying "Failed to execute 'postMessage' on 'DOMWindow'" - it's okay, ignore it`)
         const r = new YT.Player(i, {
           height: '270px',
           width: '480px',
