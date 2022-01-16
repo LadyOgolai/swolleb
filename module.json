@@ -1,0 +1,40 @@
+{
+    "name": "swolleb",
+    "title": "swolleb",
+    "description": "A music streaming module for Foundry VTT, but yt might not be okay with it!",
+    "version": "v0.4.3",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "authors": [
+        {
+            "name": "LadyOgolai",
+            "url": "https://github.com/LadyOgolai",
+        }
+    ],
+    "dependencies": [],
+    "conflicts": [],
+    "esmodules": [
+        "swolleb.js"
+    ],
+    "scripts": [],
+    "styles": [
+        "/styles/swolleb.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        },
+        {
+            "lang": "es",
+            "name": "Español",
+            "path": "languages/es.json"
+        }
+    ],
+    "url": "https://github.com/LadyOgolai/swolleb",
+    "manifest": "https://github.com/LadyOgolai/swolleb/releases/latest/download/module.json",
+    "download": "https://github.com/LadyOgolai/swolleb/releases/download/v0.4.3/module.zip"
+}
