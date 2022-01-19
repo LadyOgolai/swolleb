@@ -2,7 +2,7 @@
     "name": "swolleb",
     "title": "swolleb",
     "description": "A music streaming module for Foundry VTT, but yt might not be okay with it!",
-    "version": "0.4.3",
+    "version": "0.4.4",
     "library": "false",
     "manifestPlusVersion": "1.0.0",
     "minimumCoreVersion": "0.8.6",
